@@ -1,0 +1,20 @@
+# Cơ sở dữ liệu và tính toán số học
+pandas
+numpy
+
+# Học máy cổ điển và xử lý dữ liệu
+scikit-learn
+joblib
+
+# Tính toán lượng tử (Qiskit 1.x)
+qiskit>=1.0.0
+qiskit-machine-learning
+qiskit-algorithms
+
+# Trực quan hóa dữ liệu và biểu đồ
+matplotlib
+seaborn
+pylatexenc
+
+# Giao diện lập trình và thực thi
+jupyterlab
