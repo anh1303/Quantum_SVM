@@ -1,0 +1,2 @@
+Go to this link to download the full dataset and save in folder named "nsl-kdd":
+https://www.kaggle.com/datasets/hassan06/nslkdd
